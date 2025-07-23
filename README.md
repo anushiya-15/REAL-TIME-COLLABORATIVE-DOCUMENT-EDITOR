@@ -102,7 +102,7 @@ The Real-Time Collaborative Document Editor project was a powerful learning expe
 This task stands as an important milestone in my internship journey at CodTech IT Solution, showcasing my ability to build advanced real-world applications by combining client-side responsiveness with server-side logic and persistent database systems
 
 
-#OUTPUT
+*OUTPUT*
 
 <img width="1918" height="1012" alt="Image" src="https://github.com/user-attachments/assets/dd8e88e6-0b74-4217-a933-9cd67c16b3ae" />
 <img width="1915" height="1017" alt="Image" src="https://github.com/user-attachments/assets/4b8143cc-e4d3-4cf0-b6b8-4196ed8e9ce3" />
