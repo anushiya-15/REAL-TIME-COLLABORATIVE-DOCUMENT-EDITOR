@@ -100,3 +100,16 @@ The real-time document editor has several practical use cases:
 The Real-Time Collaborative Document Editor project was a powerful learning experience that brought together various aspects of full-stack development, real-time systems, and database management. It strengthened my understanding of how to build applications that respond to live user actions while maintaining data consistency and integrity across sessions. Through this project, I was able to create a scalable, user-friendly, and technically sound solution that mirrors functionality found in modern collaborative platforms.
 
 This task stands as an important milestone in my internship journey at CodTech IT Solution, showcasing my ability to build advanced real-world applications by combining client-side responsiveness with server-side logic and persistent database systems
+
+
+#OUTPUT
+
+<img width="1918" height="1012" alt="Image" src="https://github.com/user-attachments/assets/dd8e88e6-0b74-4217-a933-9cd67c16b3ae" />
+<img width="1915" height="1017" alt="Image" src="https://github.com/user-attachments/assets/4b8143cc-e4d3-4cf0-b6b8-4196ed8e9ce3" />
+<img width="1918" height="1012" alt="Image" src="https://github.com/user-attachments/assets/e4f055d1-1c28-4f17-b53c-d499694dfa7c" />
+<img width="1918" height="1022" alt="Image" src="https://github.com/user-attachments/assets/fea008e0-0739-472c-b5aa-ac37cbc3043f" />
+<img width="1918" height="1020" alt="Image" src="https://github.com/user-attachments/assets/af462fdd-2978-433b-8222-03b59d21e19a" />
+<img width="1918" height="1017" alt="Image" src="https://github.com/user-attachments/assets/cb7c5aff-e75e-4a99-8f64-eab72cc55de4" />
+<img width="1918" height="1015" alt="Image" src="https://github.com/user-attachments/assets/67b9c5d4-f80a-4f01-bbc0-2663251b213a" />
+<img width="1918" height="1022" alt="Image" src="https://github.com/user-attachments/assets/f9cf9012-a617-412b-929b-651ccf0b952f" />
+<img width="1918" height="1022" alt="Image" src="https://github.com/user-attachments/assets/e74d4d35-fa39-4578-bb89-0c3b6189bc8e" />
